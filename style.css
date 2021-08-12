@@ -1,0 +1,100 @@
+h1
+{
+  text-align:center;
+  color:blue;
+  font-family: arial;
+  font-style: italic;
+}
+h2
+{
+ 
+  color:green;
+  font-family: arial;
+  font-style: italic;
+  margin:25px;
+  text-align:center;
+}
+.container{
+    width: 36rem;
+    height:30rem;
+    background-color:rgb(34, 27, 126);
+    margin: 2rem auto;
+    padding:1rem 2rem;
+    color:aliceblue;
+}
+body{
+    background-color:rgb(26, 24, 24);
+}
+canvas
+{
+  width:31rem;
+  height:15rem;
+  border:4px solid rgb(196, 193, 193);
+  margin:0.4rem 2rem;
+  
+}
+p
+{
+  font-size:1rem;
+  margin:25px;
+}
+#redd
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+  background-color:red;
+}
+#green
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+  background-color:green;
+}
+#blue
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+  background-color:blue;
+}
+#rainbow
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+  background:linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+}
+#clearr
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+  background-color:white;
+}
+#blur
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+  background-color:lightgrey;
+}
+#greyy
+{
+  width:8rem;
+  height:2rem;
+  font-size:0.9rem;
+  background-color:grey;
+}
+#reset
+{
+  width:7rem;
+  height:2rem;
+  font-size:0.9rem;
+}
+#imgg
+{
+    font-size: 0.9rem;
+    
+}
